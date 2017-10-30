@@ -1,0 +1,6 @@
+\\vmware-host\Shared Folders\Desktop\KirklandChris_Portfolio\Projects\ChrisKirkland_CE02\ChrisKirkland_CE02\bin\Debug\ChrisKirkland_CE02.exe.config
+\\vmware-host\Shared Folders\Desktop\KirklandChris_Portfolio\Projects\ChrisKirkland_CE02\ChrisKirkland_CE02\bin\Debug\ChrisKirkland_CE02.exe
+\\vmware-host\Shared Folders\Desktop\KirklandChris_Portfolio\Projects\ChrisKirkland_CE02\ChrisKirkland_CE02\bin\Debug\ChrisKirkland_CE02.pdb
+\\vmware-host\Shared Folders\Desktop\KirklandChris_Portfolio\Projects\ChrisKirkland_CE02\ChrisKirkland_CE02\obj\Debug\ChrisKirkland_CE02.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\KirklandChris_Portfolio\Projects\ChrisKirkland_CE02\ChrisKirkland_CE02\obj\Debug\ChrisKirkland_CE02.exe
+\\vmware-host\Shared Folders\Desktop\KirklandChris_Portfolio\Projects\ChrisKirkland_CE02\ChrisKirkland_CE02\obj\Debug\ChrisKirkland_CE02.pdb
